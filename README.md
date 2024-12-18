@@ -5,7 +5,7 @@
 I'm a designer/developer/musician who loves to build exciting user experiences and explore new technologies.  In the modern world of web development, the landscape is constantly changing, which is one of my favorite (and least-favorite) parts about the front-end domain.
 
 Currently, I work as a Senior Front-End Developer at Hero Digital, where I mentor teams and ensure technical excellence in every project. I hold a **Bachelor's degree in Software Engineering** from Baldwin Wallace University.
-Outside of work, I'm a **musician with over 12 years of piano experience**, focusing on jazz and live performances. 
+Outside of work, I'm a **musician with over 12 years of piano experience**. 
 I play keys for two amazing bands: **Post Saga** and **Fruitfly**. 🎵 
 
 ---
@@ -21,8 +21,6 @@ I play keys for two amazing bands: **Post Saga** and **Fruitfly**. 🎵
   <img alt="Supabase" src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </div>
-## Let's Connect!
-
 - **LinkedIn:** [linkedin.com/in/matthew-muenzberg-225311162](https://www.linkedin.com/in/matthew-muenzberg-225311162/)
 - **Music Projects:** [Post Saga](https://www.postsaga.com/) | [Fruitfly](https://linktr.ee/_fruitfly_)
 
