@@ -21,7 +21,13 @@ I play keys for two amazing bands: **Post Saga** and **Fruitfly**. 🎵
   <img alt="Supabase" src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </div>
-- **LinkedIn:** [linkedin.com/in/matthew-muenzberg-225311162](https://www.linkedin.com/in/matthew-muenzberg-225311162/)
-- **Music Projects:** [Post Saga](https://www.postsaga.com/) | [Fruitfly](https://linktr.ee/_fruitfly_)
 
----
+### Find Me Here!
+<ul>
+  <li>
+    <a href="https://linkedin.com/in/matthew-muenzberg-225311162" target="_blank" rel="noopener noreferrer">linkedin.com/in/matthew-muenzberg-225311162</a>
+  </li>
+  <li>
+    <a href="https://www.postsaga.com/" target="_blank" rel="noopener noreferrer">Post Saga</a>&nbsp; & &nbsp;<a href="https://linktr.ee/_fruitfly_/" target="_blank" rel="noopener noreferrer">FruitFly</a>
+  </li>
+</ul>
