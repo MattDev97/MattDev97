@@ -1,40 +1,29 @@
-# Hi there, I'm Matt! 👋
+## Hi there, I'm Matt! 👋
 
-🎹 **Musician | 🎨 Artist | 💻 Software Developer**
+🎹 **Musician | 🎨 Designer | 💻 Software Developer**
 
----
+I'm a designer/developer/musician who loves to build exciting user experiences and explore new technologies.  In the modern world of web development, the landscape is constantly changing, which is one of my favorite (and least-favorite) parts about the front-end domain.
 
-## About Me
-I'm a passionate software developer with a focus on **React**, **web development**, and **Salesforce consulting**. Currently, I work as a Front-End Technical Lead at Hero Digital, where I mentor teams and ensure technical excellence in every project. I hold a **Bachelor's degree in Software Engineering** from Baldwin Wallace University.
-
-Outside of work, I'm a **musician with over 12 years of piano experience**, focusing on jazz and live performances. I play keys for two amazing bands: **Post Saga** and **Fruitfly**. 🎵 I love exploring the intersection of creativity and technology, whether through music or building innovative software solutions.
-
----
-
-## Skills & Technologies
-
-- **Languages:** JavaScript (ES6+), HTML, CSS, Typescript
-- **Frameworks/Libraries:** React, Node.js, Redux, Next.js
-- **Platforms:** Salesforce, AWS (Lambda, S3)
-- **Tools:** Git, Webpack, VS Code, Jest
-- **Databases:** MongoDB, MySQL, Supabase
+Currently, I work as a Senior Front-End Developer at Hero Digital, where I mentor teams and ensure technical excellence in every project. I hold a **Bachelor's degree in Software Engineering** from Baldwin Wallace University.
+Outside of work, I'm a **musician with over 12 years of piano experience**, focusing on jazz and live performances. 
+I play keys for two amazing bands: **Post Saga** and **Fruitfly**. 🎵 
 
 ---
-
-## Hobbies & Interests 🎮
-
-- **Music:** Pianist specializing in jazz, live performances, and synthesizers 🎹 (Nord Stage 3, Novation Summit, Yamaha)
-- **Gaming:** Enjoy titles like *The Binding of Isaac*, *XCOM*, *Diceomancer*, and *Call of Duty*
-- **Art:** Painting Warhammer miniatures and exploring creative outlets
-- **Collaborations:** Always open to connecting with other developers and musicians!
-
----
-
+### Regularly Work With
+<div style="display: flex;"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+</div>
+<div style="display: flex;"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Supabase" src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
+</div>
 ## Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/matthew-muenzberg-225311162](https://www.linkedin.com/in/matthew-muenzberg-225311162/)
 - **Music Projects:** [Post Saga](https://www.postsaga.com/) | [Fruitfly](https://linktr.ee/_fruitfly_)
 
 ---
-
-### “Creativity is intelligence having fun.” – Albert Einstein
