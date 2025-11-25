@@ -2,7 +2,7 @@
 
 🎹 **Musician | 🎨 Designer | 💻 Software Developer**
 
-I'm a designer/developer/musician who loves to build exciting user experiences and explore new technologies.  In the modern world of web development, the landscape is constantly changing, which is one of my favorite (and least-favorite) parts about the front-end domain.
+I'm a software engineer who loves to build exciting user experiences and explore new technologies, with over 6+ years of experience.  In the modern world of web development, the landscape is constantly changing, which is one of my favorite (and least-favorite) parts about the front-end domain.
 
 Currently, I work as a Senior Software Consultant at Huge Inc, where I mentor teams and ensure technical excellence in every project. I hold a **Bachelor's degree in Software Engineering** from Baldwin Wallace University.
 Outside of work, I'm a **musician with over 12 years of piano experience**. 
